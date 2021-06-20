@@ -1,0 +1,34 @@
+{
+  "files": [
+    {
+      "path": "./README.md",
+      "comments": [
+        {
+          "text": "hello world:A",
+          "tags": [
+            {
+              "revision": "39690ed",
+              "line": 1,
+              "status": "Normal"
+            },
+            {
+              "revision": "5b716c1",
+              "line": 1,
+              "status": "Normal"
+            }
+          ]
+        },
+        {
+          "text": "hello world:B",
+          "tags": [
+            {
+              "revision": "39690ed",
+              "line": 2,
+              "status": "Normal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
